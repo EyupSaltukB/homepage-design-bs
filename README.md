@@ -1,4 +1,4 @@
-<h1>Udemig İçin Anasayfa Tasarımı</h1>
+<h1>Homepage Design for Udemig</h1>
 
 Tasarım projesidir
 
