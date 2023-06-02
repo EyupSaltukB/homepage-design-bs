@@ -1,6 +1,5 @@
 <h1>Homepage Design for Udemig</h1>
-
-Tasarım projesidir
+Bootstrap ile yeni ve şık bir anasayfa tasarımı.
 
 <h2> Kullanılan Teknolojiler</h2>
 
