@@ -4,7 +4,7 @@ Tasarım projesidir
 
 <h2> Kullanılan Teknolojiler</h2>
 
-HTML , SCSS, BS , JS ve CSS kullanıldı.
+HTML, SCSS, BS, ve CSS kullanıldı.
 
 
 <h3>Ekran Görüntüleri</h3>
