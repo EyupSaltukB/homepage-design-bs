@@ -1,0 +1,59 @@
+@import 'typograph';
+
+*{
+    font-family: $font2;
+}
+
+.navbar{
+    background: linear-gradient(to top, #09203f 0%, #537895 100%);
+
+    &-brand{
+        font-family: $font2;
+     }
+
+        &-nav{
+            a{
+                color: #ffffff;
+            }
+            span a{
+                color: #050505;
+            }
+    }
+}
+
+.carousel{
+    img{
+        width: 100%;
+        border-radius: 50%;
+        height: 450px;
+        object-fit: cover;
+    }
+    &-caption{
+        padding-top: 10px;
+        color: #050505;
+        background-color: white;
+        z-index: 2;
+        bottom: -1%;
+        border-radius: 20px;
+        p{
+            background-color: white;
+        }
+    }
+    &-item::before{
+        content:'' ;
+        border-radius: 50%;
+        position: absolute;
+        background-color: #050505;
+        z-index: 1;
+        width: 100%;
+        height: 100%;
+        opacity: 0.1;
+    }
+}
+
+.card{
+    &:hover{
+        @include hover;
+        box-shadow: 2px 2px 15px rgb(12,12,82);
+    }
+}
