@@ -57,3 +57,39 @@
         box-shadow: 2px 2px 15px rgb(12,12,82);
     }
 }
+
+footer{
+    .nav-link{
+        color: gray !important;
+    }
+}
+
+.login {
+    background:url("https://images.unsplash.com/photo-1685648841642-bf3f88b7c60e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=700&q=60");
+    background-size: 70%;
+    height: 50vh;
+    div:first-child {
+      padding: 20px;
+      background: #021D51;
+      color: white;
+      border-radius: 20px 0 0 20px;
+    }
+  }
+
+  .register{
+    background:url("https://images.unsplash.com/photo-1578070181910-f1e514afdd08?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60");
+    background-size: 70%;
+    height: 55vh;
+    div:first-child {
+      padding: 20px;
+      background: #021D51;
+      color: white;
+      border-radius: 20px 0 0 20px;
+    }
+  }
+
+  .own-bar{
+    background-color: red;
+    width: 70vw;
+  }
+  
