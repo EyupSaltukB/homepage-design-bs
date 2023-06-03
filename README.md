@@ -1,5 +1,6 @@
 <h1>Homepage Design for Udemig</h1>
 Bootstrap ile yeni ve şık bir anasayfa tasarımı.
+Ekran görüntüleri ve video ile depo güçlendirilmiştir. Görmek için aşağı kaydırın.
 
 <h2> Kullanılan Teknolojiler</h2>
 
