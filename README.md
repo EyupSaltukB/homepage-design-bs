@@ -16,12 +16,19 @@ HTML, SCSS, BS, ve CSS kullanıldı.
 
 ![sc2](https://github.com/EyupSaltukB/homepage-design-bs/assets/129687853/f877f908-40f4-4f11-bb72-131430e0a3f0)
 
+![](sc3.png)
+
+
+![](sc4.png)
 
 <h4> Video </h4>
 
 ![](sr.mp4)
 
-https://github.com/EyupSaltukB/homepage-design-bs/assets/129687853/05939c07-4b2b-49af-803f-36e5d1107dc9
+
+
+https://github.com/EyupSaltukB/homepage-design-bs/assets/129687853/170e3d84-842f-45db-a935-ac9f72b205d3
+
 
 
 
