@@ -18,8 +18,13 @@ HTML, SCSS, BS, ve CSS kullanıldı.
 
 ![](sc3.png)
 
+![sc3](https://github.com/EyupSaltukB/homepage-design-bs/assets/129687853/d6d40583-eba8-4869-8e40-edd8c48c7bb9)
+
 
 ![](sc4.png)
+
+![sc4](https://github.com/EyupSaltukB/homepage-design-bs/assets/129687853/6bd0ce38-e795-4851-ae68-0338821d7bb0)
+
 
 <h4> Video </h4>
 
